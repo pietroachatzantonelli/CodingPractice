@@ -1,6 +1,4 @@
-# CodingPractice (Python)
-
-#Meta Coding Puzzles 
+# MetaCodingPuzzles with Python
 
 ### Warmup:
 
@@ -10,5 +8,5 @@
 
 ### Level 1:
 
-- Problem 1 - [Cafeteria](https://www.metacareers.com/profile/coding_puzzles/?puzzle=203188678289677) _
+- Problem 1 - [Cafeteria](https://www.metacareers.com/profile/coding_puzzles/?puzzle=203188678289677)
 
